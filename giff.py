@@ -7,7 +7,7 @@ import datetime
 from PIL import Image
 e=sys.exit 
   
-size = 720, 1000
+
 def create_gif(filenames, duration): 
 	images = [] 
 	for filename in filenames: 
